@@ -1,4 +1,3 @@
-
 @echo off
 setlocal
 title %~n0
