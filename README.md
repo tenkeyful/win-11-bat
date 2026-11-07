@@ -5,7 +5,7 @@ Like it or not, I do get BSOD every now and then. To fix my Windows machine, I h
 
 Same goes for when Wi-Fi in Action Center says `No internet, secured`. Most tutorials teach bullshit like `ipconfig /flushdns` (that only deletes temporarily stored DNS records for fucking god's sake 🫩), so I got the commands from [memstechtips](https://memstechtips.com/fix-slow-internet-windows-11/) whom I watch his YouTube videos frequently.
 
-I run a blog, and I'm tired of manually `Ctrl` + `R` → type C → arrow → Enter → click on Address bar → type `code .` → Ctrl + `backtick` → type `npm run dev`. So I wrote another `.bat` file.
+I run a blog, and I'm tired of manually `Ctrl` + `R` → type C → arrow → Enter → click on Address bar → type `code .` → `Ctrl` + `backtick` → type `npm run dev`. So I wrote another `.bat` file.
 
 I rarely if not ever have a duplication file issue but in case I do, I might use [this Chinese guy's PowerShell script](https://github.com/zouyonghe/remove-duplicate-files).
 
