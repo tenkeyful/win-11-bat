@@ -1,7 +1,7 @@
 @echo off
 setlocal
 title %~n0
-REM blue cuz y not, it signals trust
+rem blue cuz y not, it signals trust
 color 0B
 
 echo [1/3] ping 1.1.1.1
